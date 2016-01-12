@@ -1,0 +1,9 @@
+<template name="footer_code">
+  <div class="footer-code {{moduleClass}}">
+    {{#if footerCode}}
+      {{#markdown}}{{footerCode}}{{/markdown}}
+    {{else}}
+      <a href="http://www.intranet.edf.fr" target="_blank">{{_ "EDF Collaborative Tools"}}</a>
+    {{/if}}
+  </div>
+</template>
