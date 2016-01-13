@@ -1,0 +1,1 @@
+{"version":3,"sources":["meteor://💻app/project-i18n.js"],"names":[],"mappings":"yBAAA;AACA","file":"/project-i18n.js","sourcesContent":["TAPi18n._enable({\"helper_name\":\"_\",\"supported_languages\":null,\"i18n_files_route\":\"/tap-i18n\",\"preloaded_langs\":[],\"cdn_path\":null});\nTAPi18n.languages_names[\"en\"] = [\"English\",\"English\"];\n"]}

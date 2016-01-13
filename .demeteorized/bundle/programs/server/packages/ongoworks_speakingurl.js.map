@@ -1,0 +1,1 @@
+{"version":3,"sources":["meteor://💻app/packages/ongoworks_speakingurl/speakingurl.js"],"names":[],"mappings":";;;;;;;;;;;;;;;;AAAA;AACA,yE","file":"/packages/ongoworks_speakingurl.js","sourcesContent":["getSlug = Npm.require(\"speakingurl\");\n"]}

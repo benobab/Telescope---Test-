@@ -119,7 +119,6 @@ sacha:juice@0.1.4
 sacha:spin@2.3.1
 sanjo:meteor-files-helpers@1.2.0_1
 sanjo:meteor-version@1.0.0
-seba:minifiers-autoprefixer@0.0.1
 service-configuration@1.0.5
 session@1.1.1
 sha@1.0.4
